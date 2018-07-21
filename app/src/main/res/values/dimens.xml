@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginLeft">45dp</dimen>
+    <dimen name="margin_right">38dp</dimen>
+    <dimen name="margin_left">38dp</dimen>
+    <dimen name="marginTop">70dp</dimen>
+    <dimen name="Left">200dp</dimen>
+    <dimen name="Right">200dp</dimen>
+    <dimen name="width">78dp</dimen>
+    <dimen name="Start_Left">28dp</dimen>
+</resources>

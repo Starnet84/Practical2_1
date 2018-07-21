@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="calender_btn">Calender</string>
+    <string name="timer_btn">Timer</string>
+    <string name="browser_btn">Browser</string>
+    <string name="email_btn">E-mail</string>
+    <string name="title_activity_second">title_activity_second</string>
+    <string name="timer_val">0</string>
+    <string name="btn_start_label">btn_start_label</string>
+    <string name="btn_pause_label">btn_pause_label</string>
+    <string name="btn_stop_label">btn_stop_label</string>
+    <string name="title_activity_four">activity_four</string>
+    <string name="title_activity_three">activity_three</string>
+    <string name="title_activity_first">activity_first</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <item name="editText" type="id">Edit_text</item>
+</resources>
